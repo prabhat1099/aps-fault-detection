@@ -27,3 +27,4 @@ To Download sensor data
 `````
 $ wget https://raw.githubusercontent.com/avnyadav/sensor-fault-detection/main/aps_failure_training
 _set1.csv
+
